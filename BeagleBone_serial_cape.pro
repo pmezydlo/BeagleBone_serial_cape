@@ -1,4 +1,4 @@
-update=pon, 20 lut 2017, 19:15:29
+update=śro, 22 lut 2017, 12:36:56
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=/home/pmezydlo/pcb_work/kicad-library/library/atmel
